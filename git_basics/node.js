@@ -1,0 +1,2 @@
+//expresion
+console.log('Hello');

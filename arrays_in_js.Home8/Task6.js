@@ -27,3 +27,7 @@ function getSortedCopy(arr) {
 }
 
 console.log("from function:", getSortedCopy(numbersList2));
+
+const sortedNumbers = numbersList.toSorted((a, b) => a - b)
+
+console.log (sortedNumbers)

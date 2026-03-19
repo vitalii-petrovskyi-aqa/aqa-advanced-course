@@ -11,5 +11,5 @@ console.log(`3. Booleans: ${bool1} and ${bool2}\n\ttypes: ${typeof bool1} and ${
 let testNull = null;
 console.log(`4. Null: ${testNull}\n\ttype: ${typeof testNull}`);
 
-let testUndefined;
+let testUndefined = 'Undefined';
 console.log(`5. Undefined: ${typeof testUndefined}\n\ttype: ${typeof testUndefined}`);
